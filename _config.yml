@@ -1,11 +1,11 @@
 # Site settings
-author: casual-publisher-3309
-title: 
+author: William A.
+title: Built by Will
 header-img: img/home-bg.png
 email: wandre94@gmail.com
-copyright_name: casual-publisher-3309
+copyright_name: William A.
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A humble collection of thoughts.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  william-ca
